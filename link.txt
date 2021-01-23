@@ -1,0 +1,11 @@
+*****Fontawesome*****
+<script src="https://kit.fontawesome.com/d755b7edb1.js" crossorigin="anonymous"></script>
+
+
+
+*****Google Fonts*****
+//Ubuntu//
+
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap" rel="stylesheet">
+
+font-family: 'Ubuntu', sans-serif;
